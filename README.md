@@ -22,12 +22,12 @@ Deploy MinIO: Multi-Node Single-Drive
 | :--- | :--- |
 | root | Enjoyd@y |
 
-**Default docker volume mount path
+**Default docker volume mount path**
 | Default volume mount path |
 | :--- |
 | /mnt/data-0 | 
 
-**Default MinIO docker image
+**Default MinIO docker image**
 | Default MinIO docker image |
 | :--- |
 | quay.io/minio/minio:RELEASE.2025-01-20T14-49-07Z |
