@@ -17,7 +17,7 @@ Deploy MinIO: Multi-Node Single-Drive
 | minio04 | 172.31.40.139 |
 
 ## Deploy
-**Default minio admin user & password (Change if necessary)** 
+**Default minio admin user & password (Change if necessary)**
 | Default Root User | Default Root Password |
 | :--- | :--- |
 | root | Enjoyd@y |
