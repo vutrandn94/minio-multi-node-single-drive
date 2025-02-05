@@ -22,7 +22,7 @@ Deploy MinIO: Multi-Node Single-Drive
 | :--- | :--- |
 | root | Enjoyd@y |
 
-**Default container Timezone (Modify to appropriate timezone)
+**Default container Timezone (Modify to appropriate timezone)**
 | Default container Timezone |
 | :--- |
 | Asia/Ho_Chi_Minh |
