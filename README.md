@@ -168,3 +168,5 @@ networks:
 ```
 
 **Access MinioUI http://<MINIO_SERVER_IP>:9001 or config Nginx / HAProxy to loadbalance for MinIO nodes**
+>[!NOTE]
+> Reference: https://min.io/docs/minio/linux/integrations/setup-nginx-proxy-with-minio.html
